@@ -16,5 +16,5 @@ releases:
         name: icingaweb2-module-helloworld-master.zip
         checksum: DED15F190AB110537005F753F6537C1D
         url: >
-          file:///icingaweb2-module-helloworld-master.zip
+          https://github.com/arfr/icingaweb2-module-helloworld/archive/master.zip
         description: 'Icinga Web 2 - Hello World Module'
