@@ -1,0 +1,20 @@
+name: 'Icinga Web 2 - Hello World Module'
+description: A simple Hello World Module demo.
+url: >
+  https://github.com/arfr/icingaweb2-module-helloworld
+tags: icingaweb2, module
+vendor: icinga
+target: website
+type: plugin, tutorial, gui, addon
+license: MIT license
+releases:
+  - 
+    name: 0.0.1
+    description: Initial release
+    files:
+      - 
+        name: icingaweb2-module-helloworld-master.zip
+        checksum: DED15F190AB110537005F753F6537C1D
+        url: >
+          file:///icingaweb2-module-helloworld-master.zip
+        description: 'Icinga Web 2 - Hello World Module'
